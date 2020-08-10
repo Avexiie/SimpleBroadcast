@@ -1,0 +1,12 @@
+name: SimpleBroadcast
+main: com.github.avexiie.simplebroadcast.Main
+version: 2.0 Alpha 1
+author: Avexiie
+softdepend: [BarAPI]
+description: TODO
+website: play.cloudnation.my.id
+
+commands:
+  simplebroadcast:
+    description: Main command of SimpleBroadcast which allows to control and use all its features.
+    aliases: [sb]
